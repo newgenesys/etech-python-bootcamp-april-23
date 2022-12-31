@@ -1,0 +1,5 @@
+Bill,Bakar,11452,85,83,84
+Sally,Simpson,11157,88,92,95
+Mark,Mathews,111932,77,75,78
+Cindy,Williams,1117,65,71,81
+John,Jacobs,111873,67,72,68
